@@ -1,0 +1,12 @@
+controller\InvoiceButtonsListener.class
+view\SalesInvoiceFrame$1.class
+controller\secondTableListener.class
+view\SalesInvoiceFrame$3.class
+view\SalesInvoiceFrame.class
+model\LineNewRepresentation.class
+view\HeaderNewWindow.class
+view\SalesInvoiceFrame$2.class
+model\SalesInvoiceHeader.class
+model\HeaderNewRepresentation.class
+model\SalesInvoiceLine.class
+view\LineNewWindow.class
